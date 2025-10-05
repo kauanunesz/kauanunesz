@@ -2,7 +2,7 @@
 
 **`Estudante de Desenvolvimento de Sistemas`**
 
-# 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -120,11 +120,11 @@
 <br/>
 <br/>
 
-# 📊 Estatísticas
+## 📊 Estatísticas
 
-![Kauã's Github Stats](https://github-readme-stats.vercel.app/api?username=kauanunesz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
+![Kauã's Github Stats](https://github-readme-stats.vercel.app/api?username=kauanunesz&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff&include_all_commits=true&locale=pt-br)
 
-![Kauã's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kauanunesz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
+![Kauã's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kauanunesz&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff&layout=compact&custom_title=Tecnologias&langs_count=9)
 
 
 </p>
